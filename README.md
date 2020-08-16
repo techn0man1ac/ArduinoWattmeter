@@ -1,2 +1,2 @@
-# ArfuinoWattmeter
-Arfuino Wattmeter
+# ArduinoWattmeter
+Arduino Wattmeter
