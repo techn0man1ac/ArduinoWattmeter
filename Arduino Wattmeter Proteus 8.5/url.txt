@@ -1,0 +1,3 @@
+Разработанный на стриме (https://youtu.be/r1RigzIen7M) ваттметр.
+
+By Techn0man1ac https://youtube.com/RazniePodelki
