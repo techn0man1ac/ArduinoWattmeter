@@ -1,3 +1,3 @@
-Разработанный на стриме (https://youtu.be/r1RigzIen7M) ваттметр.
+Р Р°Р·СЂР°Р±РѕС‚Р°РЅ РЅР° СЃС‚СЂРёРјРµ (https://youtu.be/r1RigzIen7M) 
 
 By Techn0man1ac https://youtube.com/RazniePodelki
